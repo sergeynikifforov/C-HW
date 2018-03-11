@@ -6,4 +6,4 @@ project (${PROJECT})
 set (SOURCES
 	integral.cpp) 
 
-add_executable (${PROJECT} ${SOURCES})
+add_executable (${PROJECT} ${SOURCES} integral.exe)
